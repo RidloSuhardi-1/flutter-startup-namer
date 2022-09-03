@@ -10,6 +10,6 @@ A new Flutter project.
 
 ## First Flutter App Bagian 2
 
-| Single Text                                      | Listview Text                                    |
+| Listview                                         | Suggestions Listview                             |
 | ------------------------------------------------ | ------------------------------------------------ |
 | ![Screenshot codelab 2 bagian 1](images/2_1.png) | ![Screenshot codelab 2 bagian 2](images/2_2.png) |
